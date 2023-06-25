@@ -1,4 +1,4 @@
-# 2d-snake
+# 2D-SNAKE
 This project uses the following technology stack: JS, CSS, HTML. The game also has sound !
 
 
