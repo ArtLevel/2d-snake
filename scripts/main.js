@@ -174,3 +174,5 @@ document.addEventListener('keydown', function (e) {
     snake.dy = 0
   }
 })
+
+// test Git on Linux
